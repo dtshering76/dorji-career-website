@@ -1,20 +1,20 @@
-h1{
+/* h1{
   font-size:40px;
   font-family:Roboto;
   font-weight:normal;
   color:rbg(50,50,50);
   text-align:center;
-}
-.bodytext{
+} */
+/* .bodytext{
   font-family:Roboto;
   color:rbg(80,80,80);
-}
+} */
 #banner{
   width: 100%;
   height: 360px;
   object-fit:cover;
 }
-h2{
+/* h2{
   font-family:Roboto;
   font-size:32px;
   color:rgb(100,100,100);
@@ -24,4 +24,4 @@ h2{
 .container{
   max-width:720px;
   margin:0 auto;
-}
+} */
